@@ -1,0 +1,1 @@
+# Esta es la practica Nº 1 en Ruby de Mecaris Modulo 2
